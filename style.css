@@ -4,7 +4,7 @@ body,html {
     font-family: 'Syne', sans-serif;
 }
 
-h3 {
+#tagline {
     color: #8c8c8c;
     font-style: italic;
     margin-top: 0;
