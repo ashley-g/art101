@@ -47,3 +47,10 @@ h1{
     margin-top: 0;
     font-size: 85%;
 }
+
+.recipe {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
