@@ -54,3 +54,37 @@ h1{
     padding: 10px;
     margin: 20px;
 }
+
+.fl {
+    margin: 0; 
+    background-image: url('flower.jpg');
+}
+
+#flower {
+    color: white;
+    font-size: 100px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    padding: .8em 0 0 1em;
+}
+
+.cl {
+    margin: 0; 
+    background-image: url('cloud.jpg');
+    background-position: 0 40%;
+}
+
+#cloud {
+    color: #02075D;
+    font-size: 90px;
+    font-family: 'IBM Plex Mono', monospace;
+    position: fixed;
+    bottom: 10px;
+    padding: 0 0 0 10px;
+}
+
+.vw {
+    margin: 0; 
+    background-image: url('vwbus.png');
+    background-size: 2846px 1600px;
+    background-position: 50% 30%;
+}
