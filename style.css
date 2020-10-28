@@ -88,3 +88,32 @@ h1{
     background-size: 2846px 1600px;
     background-position: 50% 30%;
 }
+
+figure {
+    margin: 0;
+    max-width: inherit;
+}
+
+figcaption {
+    font-size: 80%;
+}
+
+#saturn { 
+    max-width: inherit;
+}
+
+#doodle {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: auto;
+    font-size: 50%;
+}
+
+#telescope {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
